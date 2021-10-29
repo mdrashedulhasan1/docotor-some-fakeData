@@ -3,42 +3,42 @@
         "id":"01",
         "name":"Wash your hands often with soap",
         "image":"https://i.ibb.co/GCdysLS/icon-01-2048x.png",
-        "description":"Lorem Ipsum is simply dummy text of the printing and type setting industry."
+        "description":"Lather your hands by rubbing them together with the soap. Lather the backs of your hands, between your fingers, and under your nails."
 
     },
     {
         "id":"02",
         "name":"Avoid touching your eyes, nose, mouth",
         "image":"https://i.ibb.co/kcKHQNv/icon-02-2048x.png",
-        "description":"Lorem Ipsum is simply dummy text of the printing and type setting industry."
+        "description":"Hands touch many surfaces and can pick up viruses. Once contaminated, hands can transfer the virus to your eyes, nose or mouth."
 
     },
     {
         "id":"03",
         "name":"Avoid contact with people who are sick",
         "image":"https://i.ibb.co/31Sxj84/icon-03-2048x.png",
-        "description":"Lorem Ipsum is simply dummy text of the printing and type setting industry."
+        "description":"Avoid close contact with people who are sick. If possible, maintain 6 feet between the person who is sick and other household members."
 
     },
     {
         "id":"04",
         "name":"Stay home if you are sick",
         "image":"https://i.ibb.co/5W16x7C/icon-04-2048x.png",
-        "description":"Lorem Ipsum is simply dummy text of the printing and type setting industry."
+        "description":"Do not leave your home, except to get medical care. Do not visit public areas. Take care of yourself. Get rest and stay hydrated."
 
     },
     {
         "id":"05",
         "name":"You should wear a facemask",
         "image":"https://i.ibb.co/fS1TPVt/icon-05-2048x.png",
-        "description":"Lorem Ipsum is simply dummy text of the printing and type setting industry."
+        "description":"Wearing a medical mask can help limit the spread of some respiratory diseases. However using a mask alone is not guaranteed to stop infections."
 
     },
     {
         "id":"06",
         "name":"Don’t Touch Your Face or Nose",
         "image":"https://i.ibb.co/VWFqm0k/icon-06-2048x.png",
-        "description":"Lorem Ipsum is simply dummy text of the printing and type setting industry."
+        "description":"To help prevent infections, keep your hands away from your eyes, nose, and mouth especially during the COVID-19 pandemic."
 
     }
 ]
